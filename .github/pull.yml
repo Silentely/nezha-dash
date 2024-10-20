@@ -2,5 +2,5 @@ version: "1"
 rules:                     
   - base: main
     upstream: hamster1963:main
-    mergeMethod: merge
+    mergeMethod: hardreset
     mergeUnstable: false
